@@ -31,8 +31,6 @@
 
 ## 📈 GitHub Stats
 
-![Nehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehulVats&show_icons=true&theme=radical)
-
 ---
 
 ## 📂 Latest Projects
