@@ -35,12 +35,6 @@
 
 ## 📂 Latest Projects
 
-- **Project 1 Name**: Brief description of what this project does.
-- **Project 2 Name**: Brief description of what this project does.
-- **Project 3 Name**: Brief description of what this project does.
-
-Check out the rest of my repositories for more exciting projects!
-
 ---
 
 **Thank you for visiting!** 🚀
